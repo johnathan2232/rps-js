@@ -1,2 +1,2 @@
 # rps-js 
-This is just a basic rock paper scissors game that takes input from the user but it has no animation yet. 
+This is just a basic rock paper scissor game. First to 5 wins. Has ui now. 
